@@ -1,3 +1,4 @@
+![logo](https://github.com/rashidsharif/rashidsharif/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rashid Sharif</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
